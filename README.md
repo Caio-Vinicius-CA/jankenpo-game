@@ -23,7 +23,7 @@ Projeto feito para estudo de lógica de programação e desenvolvimento de inter
 git clone https://github.com/SEU-USUARIO/jankenpo-game.git
 cd jankenpo-game
 python main.py
-
+````
 ---
 
 ## 👨‍💻 Autor
